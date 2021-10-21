@@ -17,11 +17,11 @@ float           percentage
 char            grade
 
 
-
-public String displayName(){
-  string studentName="kusum";
+public class Student{
+  public String displayName(){
+  string studentName="Kusum";
   System.out.println("My Name is " +studentName);
   return studentName;
 }
- 
+}
  
